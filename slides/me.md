@@ -5,4 +5,5 @@
 * OpenWeb, DataPortability, IndieWeb seit 2006
 * Mein erstes Plugin 2007
 * Mein erstes Theme 2012
-* Entwickler bei 1&1 (MyWebsite und WordPress Hosting)
+* Meine erste "Core Contribution" 2015
+* Aktuell: Entwickler bei 1&1 (MyWebsite und WordPress Hosting)
