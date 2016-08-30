@@ -1,4 +1,4 @@
-...bei Facebook dagegen:
+## Facebook Connect
 
 ![Facebook Login](img/facebook-login.png "Facebook Login")
 
@@ -15,4 +15,4 @@ FB.login(function(response) {
 });
 ```
 
-<small>(und ein bisschen JavaScript)</small>
+<small>(und JavaScript)</small>
