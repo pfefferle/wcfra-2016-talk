@@ -6,4 +6,4 @@
 * Mein erstes Plugin 2007
 * Mein erstes Theme 2012
 * Meine erste "Core Contribution" 2015
-* Aktuell: Entwickler bei 1&1 (1&1 MyWebsite und 1&1 WordPress Hosting)
+* Aktuell: Entwickler bei 1&1 MyWebsite
