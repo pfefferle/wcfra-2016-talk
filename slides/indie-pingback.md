@@ -1,1 +1,1 @@
-![](img/first-indie-pingback.png)
+![](img/indie-responses.png)
