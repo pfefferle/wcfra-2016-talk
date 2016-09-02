@@ -1,7 +1,7 @@
-## weitere Risiken
+## Risiken
 
 * spontane Änderung der AGBs
-* willkürliches löschen von Inhalten und Profilen
+* willkürliches Löschen von Inhalten und Profilen
 * undurchsichtige Privacy Einstellungen
 * Verkauf von Profildaten
 * ...
